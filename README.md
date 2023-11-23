@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">- 🔭 I’m currently working on cybersecurity research<br><br>- 💬 Ask me about anything</p>
+<p align="left">- 🔭 I’m currently working on ML & Cybersecurity research<br><br>- 💬 Ask me about anything</p>
 
 ###
 
