@@ -5,7 +5,6 @@
 <p align="left">
   🎓 <b>PhD Student</b> in Electrical and Computer Engineering at the <b>University of Southern California (USC)</b>.<br><br>
   🔭 <b>Research Focus:</b> AI and LLM-based agents, AI security & safety, trustworthy AI, and multi-agent systems.<br>
-  💬 <b>Ask me about:</b> LLM Agents, AI Security, Neuromorphic AI, and anything tech!
 </p>
 
 <h2 align="left">Connect with me:</h2>
